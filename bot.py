@@ -15,6 +15,15 @@ SPECIFIC_USER_ID = user_id  # example ID
 
 # List of insults
 insults = [
+    "acho que hoje alguém vai dormir no sofá.",
+    "????????????????",
+    "deves ser meio burro.",
+    "não abuses....",
+    "?!",
+    "hoje vais comer sopa.",
+    ":rage: :rage: :rage:",
+    "deixa de ser palhaço.",
+    "és mesmo engraçadinho, vês?",
     "achantra mas é."
 ]
 
