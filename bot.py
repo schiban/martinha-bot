@@ -63,7 +63,7 @@ insults = [
     "és uma besta do caralho!",
     "és um monte de esterco!",
     "és um nojento filho da puta!",
-    "és uma aberração da natureza!"
+    "és uma aberração da natureza!",
     "acho que hoje alguém vai dormir no sofá.",
     "????????????????",
     "deves ser meio burro.",
@@ -88,16 +88,8 @@ async def on_ready():
 
 @client.event
 async def on_message(message):
-    # Debug: Print the content of the message
-    print(f"Message from {message.author}: {message.content}")
-
     # Check if the bot is mentioned
     if client.user.mentioned_in(message):
-        print(f"Bot was mentioned in a message: {message.content}")
-
-        # Debug: Print all members of the guild
-        for member in message.guild.members:
-            print(f"Member: {member.name} - ID: {member.id}")
 
         # Find the specific user by ID
         specific_user = message.guild.get_member(SPECIFIC_USER_ID)
