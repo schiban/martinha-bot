@@ -71,7 +71,8 @@ insults = [
     "?!",
     ":rage: :rage: :rage:",
     "deixa de ser palhaço.",
-    "és mesmo engraçadinho, vês?"
+    "és mesmo engraçadinho, vês?",
+    "9 years, eh? Wow. 9 years ago you were autistic. exactly 9 years ago I looked at you and I was like: wow, what a fucking spastic, chromossome lacking fucking herrera lookin ass motherfucker. 9 years later i still think that tbh. it's been 9 years of me being your friend and to this day, I still don't know why. hopefully soon you'll realize how much of a cumsock you are, and finally begin your steps towards changing into a man. here's to 9 years more, brother kkonacool"
 ]
 
 # Create an instance of a client with intents
