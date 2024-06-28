@@ -23,7 +23,8 @@ insults = [
     "hoje vais comer sopa.",
     ":rage: :rage: :rage:",
     "deixa de ser palhaço.",
-    "estás a ver que engraçadinho que és?"
+    "és mesmo engraçadinho, vês?",
+    "achantra mas é."
 ]
 
 # Create an instance of a client with intents
